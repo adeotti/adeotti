@@ -15,4 +15,4 @@
 
 </div>
 
- <br><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=adeotti&theme=earth&hide_border=true&card_width=380&hide_longest_streak=true" alt="GitHub Streak" /></a>
+ <br><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=adeotti&theme=earth&hide_border=true&border_radius=30&card_width=394&hide_longest_streak=true" alt="GitHub Streak" /></a>
