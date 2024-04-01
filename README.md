@@ -1,5 +1,7 @@
 <style>
-div { padding-left: 20px; }
+div { 
+  padding-left: 20px; 
+}
 </style>
 
 <div align="left">
