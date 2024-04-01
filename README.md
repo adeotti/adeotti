@@ -12,6 +12,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" href="https://www.python.org"  />
 
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=adeotti" alt="GitHub Streak" /></a>
+
 </div>
  
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=adeotti" alt="GitHub Streak" /></a>
