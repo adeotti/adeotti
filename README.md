@@ -12,6 +12,6 @@
 
 
 
- <br><a ><img src="https://github-readme-streak-stats.herokuapp.com?user=adeotti&theme=onedark&hide_border=true&border_radius=30&card_width=394&hide_longest_streak=true" alt="GitHub Streak" /></a>
+ <br><a href="instagram.com/adeottii"><img src="https://github-readme-streak-stats.herokuapp.com?user=adeotti&theme=onedark&hide_border=true&border_radius=30&card_width=394&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 </div>
