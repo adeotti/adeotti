@@ -24,3 +24,4 @@
 <br>https://arxiv.org/pdf/2006.04439.pdf
 <br>
 <br> --- Stanford's Intro to statistical Learning with Python and R
+<br>https://www.statlearning.com
