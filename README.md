@@ -22,3 +22,5 @@
 <br>
 <br> --- Liquid Neural Networks, MIT CSAIL :
 <br>https://arxiv.org/pdf/2006.04439.pdf
+<br>
+<br> --- Stanford's Intro to statistical Learning with Python and R
