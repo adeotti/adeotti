@@ -33,4 +33,4 @@
 <br> https://www.deeplearningbook.org
 <br>
 <br> --- RNN by Karpathy (2015)
-<> https://karpathy.github.io/2015/05/21/rnn-effectiveness/
+<br > https://karpathy.github.io/2015/05/21/rnn-effectiveness/
