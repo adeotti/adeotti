@@ -17,7 +17,7 @@
 
 </div>
 
-<br> --- The Bitter lesson By Rich Sutton :
+<br> --- The Bitter lesson By Richard Sutton :
 <br>http://www.incompleteideas.net/IncIdeas/BitterLesson.html
 <br>
 <br> --- "Attention is all you need", Transformer architecture paper : 
