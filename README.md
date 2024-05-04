@@ -9,6 +9,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="linux logo"   />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"   />
+  <>
+ 
 
 
 
@@ -26,3 +28,6 @@
 <br>
 <br> --- Stanford's Intro to statistical Learning with Python and R
 <br>https://www.statlearning.com
+<br>
+<br> --- MIT's Deep Learning Book
+<br> https://www.deeplearningbook.org
