@@ -14,9 +14,3 @@
 
 
 
-
-</div>
-
-<br> --- The Bitter lesson, Richard Sutton :
-<br>http://www.incompleteideas.net/IncIdeas/BitterLesson.html
-
