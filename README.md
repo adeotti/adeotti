@@ -17,20 +17,6 @@
 
 </div>
 
-<br> --- The Bitter lesson By Richard Sutton :
+<br> --- The Bitter lesson, Richard Sutton :
 <br>http://www.incompleteideas.net/IncIdeas/BitterLesson.html
-<br>
-<br> --- "Attention is all you need", Transformer architecture paper : 
-<br>https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf 
-<br>
-<br> --- Liquid Neural Networks, MIT CSAIL :
-<br>https://arxiv.org/pdf/2006.04439.pdf
-<br>
-<br> --- Stanford's Intro to statistical Learning with Python and R
-<br>https://www.statlearning.com
-<br>
-<br> --- MIT's Deep Learning Book
-<br> https://www.deeplearningbook.org
-<br>
-<br> --- RNN by Karpathy (2015)
-<br > https://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
