@@ -13,6 +13,7 @@ Just a Network Automation engineer who love Neural Networks and Reinforcement Le
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"   />
   <img width="12" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adeotti&border_radius=5.3&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=adeotti&border_radius=5.3&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 
