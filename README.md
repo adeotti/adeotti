@@ -1,4 +1,4 @@
-Just a Network Automation engineer who love Neural Networks and Reinforcement Learning
+Just a Network Automation engineer who loves Neural Networks and Reinforcement Learning
 
 
 
