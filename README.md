@@ -1,9 +1,11 @@
 <h2>Resources</h2>
 <ul>
     <li><a href="https://www.alexirpan.com/2018/02/14/rl-hard.html" style="color: #1E90FF; text-decoration: none; font-weight: bold;">Reinforcement Learning is Hard</a></li>
-   
-    <li><a href="https://example.com/another-article" style="color: #1E90FF; text-decoration: none; font-weight: bold;">Another Reinforcement Learning Article</a></li>
-    <li><a href="https://example.com/yet-another-article" style="color: #1E90FF; text-decoration: none; font-weight: bold;">Yet Another Reinforcement Learning Resource</a></li>
+    <li><a href="http://incompleteideas.net/book/RLbook2020trimmed.pdf" style="color: #1E90FF; text-decoration: none; font-weight: bold;">RL book R.Sutton & G. Barto</a></li>
+    <li><a href="http://incompleteideas.net/IncIdeas/BitterLesson.html" style="color: #1E90FF; text-decoration: none; font-weight: bold;">The Bitter Lesson, R. Sutton</a></li>
+    <li><a href="https://spinningup.openai.com/en/latest/index.html" style="color: #1E90FF; text-decoration: none; font-weight: bold;">OpenAI deep RL ressources</a></li>
+     
+    
 </ul>
 
 
