@@ -1,4 +1,7 @@
-## Hi there 👋
+<a href="https://www.alexirpan.com/2018/02/14/rl-hard.html" style="color: #1E90FF; text-decoration: none; font-weight: bold;">
+    Reinforcement Learning is Hard
+</a>
+
 
 <!--
 **adeotti/adeotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
