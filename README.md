@@ -1,6 +1,11 @@
-<a href="https://www.alexirpan.com/2018/02/14/rl-hard.html" style="color: #1E90FF; text-decoration: none; font-weight: bold;">
-    Reinforcement Learning is Hard
-</a>
+<h2>Resources</h2>
+<ul>
+    <li><a href="https://www.alexirpan.com/2018/02/14/rl-hard.html" style="color: #1E90FF; text-decoration: none; font-weight: bold;">Reinforcement Learning is Hard</a></li>
+   
+    <li><a href="https://example.com/another-article" style="color: #1E90FF; text-decoration: none; font-weight: bold;">Another Reinforcement Learning Article</a></li>
+    <li><a href="https://example.com/yet-another-article" style="color: #1E90FF; text-decoration: none; font-weight: bold;">Yet Another Reinforcement Learning Resource</a></li>
+</ul>
+
 
 
 <!--
