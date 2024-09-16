@@ -5,7 +5,7 @@
     <li><a href="http://incompleteideas.net/IncIdeas/BitterLesson.html" style="color: #1E90FF; text-decoration: none; font-weight: bold;">The Bitter Lesson, R. Sutton</a></li>
     <li><a href="https://spinningup.openai.com/en/latest/index.html" style="color: #1E90FF; text-decoration: none; font-weight: bold;">OpenAI deep RL ressources</a></li>
     <li><a href="https://karpathy.github.io/2019/04/25/recipe/" style="color: #1E90FF; text-decoration: none; font-weight: bold;">A Recipe for Training Neural Networks, Andrej Karpathy </a></li>
-    <li><a href="https://github.com/aikorea/awesome-rl" style="color: #1E90FF; text-decoration: none; font-weight: bold;">Collections RL ressources</a></li>
+    <li><a href="https://github.com/aikorea/awesome-rl" style="color: #1E90FF; text-decoration: none; font-weight: bold;">Collections of RL ressources</a></li>
 </ul>
  
 
